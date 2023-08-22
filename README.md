@@ -1,15 +1,4 @@
-<div align="center">
-  <img src="https://www.drupal.org/files/Wordmark_blue_RGB.png" alt="Drupal Logo" height="70px">
-</div>
-<br>
-<div align="center">
-
-  ![Drupal Logo](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
-  ![Symfony Logo](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-  ![Composer Logo](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-  
-</div>
-
+SIMON WAS HERE
 <br>
 
 This repository serves as a template for setting up a modern Drupal 10 project using Composer for package management and integrating Symfony components. By leveraging Symfony's features, you can enhance your Drupal development experience and create a more modular architecture.
